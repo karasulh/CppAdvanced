@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639834211 source:c:\users\mbkara\desktop\cppudemyadvanced\39declytpetypeidandnamemangling\declytpetypeidandnamemangling\main.cpp
+	<iostream>
+	<typeinfo>
+

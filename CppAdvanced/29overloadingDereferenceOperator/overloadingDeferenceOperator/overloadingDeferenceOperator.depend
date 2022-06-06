@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638699246 source:c:\users\mbkara\desktop\cppudemyadvanced\29overloadingdereferenceoperator\overloadingdeferenceoperator\complex.cpp
+	"Complex.h"
+
+1638699184 c:\users\mbkara\desktop\cppudemyadvanced\29overloadingdereferenceoperator\overloadingdeferenceoperator\complex.h
+	<iostream>
+

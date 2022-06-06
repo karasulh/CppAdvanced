@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638130625 source:c:\users\mbkara\desktop\cppudemyadvanced\26complexnumberclass\complexnumberclass\complex.cpp
+	"Complex.h"
+
+1638130599 c:\users\mbkara\desktop\cppudemyadvanced\26complexnumberclass\complexnumberclass\complex.h
+	<iostream>
+
+1638130047 source:c:\users\mbkara\desktop\cppudemyadvanced\26complexnumberclass\complexnumberclass\main.cpp
+	<iostream>
+	"Complex.h"
+

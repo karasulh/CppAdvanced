@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639905343 source:c:\users\mbkara\desktop\cppudemyadvanced\43ringbufferclass\ringbufferclass\main.cpp
+	<iostream>
+	"ring.h"
+
+1639906035 c:\users\mbkara\desktop\cppudemyadvanced\43ringbufferclass\ringbufferclass\ring.h
+	<iostream>
+

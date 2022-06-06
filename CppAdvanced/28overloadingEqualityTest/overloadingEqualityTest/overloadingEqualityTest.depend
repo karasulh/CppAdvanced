@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638698018 source:c:\users\mbkara\desktop\cppudemyadvanced\28overloadingequalitytest\overloadingequalitytest\complex.cpp
+	"Complex.h"
+
+1638698040 c:\users\mbkara\desktop\cppudemyadvanced\28overloadingequalitytest\overloadingequalitytest\complex.h
+	<iostream>
+
+1638695183 source:c:\users\mbkara\desktop\cppudemyadvanced\28overloadingequalitytest\overloadingequalitytest\main.cpp
+	<iostream>
+	"Complex.h"
+

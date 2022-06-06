@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640433377 source:c:\users\mbkara\desktop\cppudemyadvanced\57constructorandmemory\constructorsandmemory\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+

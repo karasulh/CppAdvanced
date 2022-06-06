@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639846969 source:c:\users\mbkara\desktop\cppudemyadvanced\42nestedtemplateclasses\nestedtemplateclasses\main.cpp
+	<iostream>
+	"ring.h"
+
+1639846985 c:\users\mbkara\desktop\cppudemyadvanced\42nestedtemplateclasses\nestedtemplateclasses\ring.h
+	<iostream>
+

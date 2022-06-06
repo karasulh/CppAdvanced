@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639217821 source:c:\users\mbkara\desktop\cppudemyadvanced\34usingfunctionpointers\usingfunctionpointers\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

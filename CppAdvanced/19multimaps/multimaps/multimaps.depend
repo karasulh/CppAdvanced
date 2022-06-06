@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636291997 source:c:\users\mbkara\desktop\cppudemyadvanced\1multimaps\multimaps\main.cpp
+	<iostream>
+	<map>
+

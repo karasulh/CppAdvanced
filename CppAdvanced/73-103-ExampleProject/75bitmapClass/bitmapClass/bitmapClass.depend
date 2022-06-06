@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640502665 source:c:\users\mbkara\desktop\cppudemyadvanced\exampleproject\75bitmapclass\bitmapclass\main.cpp
+	<iostream>
+	"Bitmap.h"
+
+1640502535 c:\users\mbkara\desktop\cppudemyadvanced\exampleproject\75bitmapclass\bitmapclass\bitmap.h
+	<string>
+	<cstdint>
+

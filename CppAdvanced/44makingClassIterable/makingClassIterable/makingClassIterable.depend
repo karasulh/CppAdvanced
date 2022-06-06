@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639908138 source:c:\users\mbkara\desktop\cppudemyadvanced\44makingclassiterable\makingclassiterable\main.cpp
+	<iostream>
+	"ring.h"
+
+1639908190 c:\users\mbkara\desktop\cppudemyadvanced\44makingclassiterable\makingclassiterable\ring.h
+	<iostream>
+

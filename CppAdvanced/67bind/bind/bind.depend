@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640457231 source:c:\users\mbkara\desktop\cppudemyadvanced\67bind\bind\main.cpp
+	<iostream>
+	<functional>
+

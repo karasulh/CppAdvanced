@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640190022 source:c:\users\mbkara\desktop\cppudemyadvanced\53thestandardfunctiontype\thestandardfunctiontype\main.cpp
+	<iostream>
+	<functional>
+	<vector>
+	<algorithm>
+
